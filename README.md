@@ -5,8 +5,8 @@
 <li>Facebook https://www.facebook.com/evandrolimadasilva.silva
 <li>Instagram:  https://www.instagram.com/evandro.ds/  Aqui não interajo muito, logo vai estra meio vazio kkkkk
 <li>Github: https://www.github.com/Evandrolds</h4></ul>
-  👀 Estou em busca de uma oportunidade na area de desenvolvedor java banck-end junior ou treineen
-  🌱 Estudo java back-end há 3 anos, nesse tempo estudei
+<h2>👀 Estou em busca de uma oportunidade na area de desenvolvedor java banck-end junior ou treineen
+<h2>🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis
 
 
   <h2>Hard-skills</h2>
@@ -62,14 +62,12 @@
         
     
      
-  
-   <h4>🚀<ul><li>Há dois anos passei estudar mais a fundo os frameworks -> jpa/hibernate,lombok, spring-boot e suas particularidades 
-     <li>E para completar meu Hard-sKills venho apredendo o framework Angular junto com javascript,HTML5 e CSS3
-  <li> Participo de bootcamps com frequencia pela Digitalinnovationone (DIO) praticando do java back-end  ao fronte-end com os principais frameworks como spring-boot, jpa/hibernate, lombok, React, Angula e Bootstrap 
-<li> Atualmete trabalho na área da construção civil isso já se faz uns 17 anos por falta de oportunidade no mercado, fiz tecnologia não por necessidade mas por gostar muito, poderia ter feito há muito tempo mas a renda não deixava,mas consegui, me formei e estou no meio da tecnologia, hoje estou em busca de uma oportunidade na área mas está dificil até para conseguir uma entrevista, não sei se é por eu ser da construção civil, talvez haja um pouco de receio por achar que não sou capaz, mas sou tanto ou mais paz que outros por aí, peço uma chance, ao menos uma entrevista ou teste que seja, para eu provar o quanto sou capaz 
-- 📫 How to reach me ...
+  <h2>Sobre mim</h2>
+         <div style="max-width: 400px;">
+          
+🚀Há dois anos passei estudar mais a fundo os frameworks -> jpa/hibernate,lombok, spring-boot e suas particularidades 
+E para completar meu Hard-sKills venho apredendo o framework Angular junto com javascript,HTML5 e CSS3
+Participo de bootcamps com frequencia pela Digitalinnovationone (DIO) praticando do java back-end  ao fronte-end com os principais frameworks como                spring-boot, jpa/hibernate, lombok, React, Angula e Bootstrap. 
+          
+Atualmete trabalho na área da construção civil isso já se faz uns 17 anos por falta de oportunidade no mercado, fiz tecnologia não por necessidade mas          por gostar muito, poderia ter feito há muito tempo mas a renda não deixava,mas consegui, me formei e estou no meio da tecnologia, hoje estou em busca de            uma oportunidade na área mas está dificil até para conseguir uma entrevista, mas não vou desistir, quero e vou conseguir mudar de área, vou conatinuar              trabalho na construção civil até conseguir entrar na área, vou mostrar para muitos que não acreditaram em mim que sou tanto ou mais paz que outros por aí,          peço uma chance, ao menos uma entrevista ou teste que seja, para eu provar o quanto sou capaz, abriago por ler até aqui! 
 
-<!---
-Evandrolds/Evandrolds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
