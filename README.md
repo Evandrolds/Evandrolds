@@ -3,7 +3,7 @@
  <ul><li><h4>Telefone: whatsap (11) 9 9797-1741
 <li>Linkedi: https://www.linkedin.com/in/evandrolds/
 <li>Facebook https://www.facebook.com/evandrolimadasilva.silva
-<li>Instagram:  https://www.instagram.com/evandro.ds/  Aqui não interajo muito, logo vai estra meio vazio kkkkk
+<li>Instagram:  https://www.instagram.com/evandro.ds/  Aqui não interajo muito, logo vai estará meio vazio kkkkk
 <li>Github: https://www.github.com/Evandrolds</h4></ul>
 <h2>👀 Estou em busca de uma oportunidade na area de desenvolvedor java banck-end junior ou treineen
 <h2>🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis
