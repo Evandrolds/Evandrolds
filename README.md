@@ -7,10 +7,10 @@
 <h2> 👋 Ola! sou o Evandro sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE</h2>
 <h2> Meios de Contato:</h2>
  <ul><li><h4>Telefone: whatsap (11) 9 9797-1741
-<li>Linkedi: https://www.linkedin.com/in/evandrolds/
-<li>Facebook https://www.facebook.com/evandrolimadasilva.silva
-<li>Instagram:  https://www.instagram.com/evandro.ds/  Aqui não interajo muito, logo estará meio vazio kkkkk
-<li>Github: https://www.github.com/Evandrolds</h4></ul>
+<li>Linkedin: <a>https://www.linkedin.com/in/evandrolds/<\a>
+<li>Facebook <a>https://www.facebook.com/evandrolimadasilva.silva<\a>
+<li>Instagram:  <a>https://www.instagram.com/evandro.ds/<\a>  Aqui não interajo muito, logo estará meio vazio kkkkk
+<li>Github: <a>https://www.github.com/Evandrolds</4><\a></ul>
 <h2>👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou treineen
 <h2>🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis
 
