@@ -1,18 +1,23 @@
+<h4> 👋 Ola! me chamo Evandro sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE</h4>
 <div>
 <a href="https://github.com/Evandrolds">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrolds&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandrolds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrolds&layout=compact&langs_count=10&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Evandrolds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<h2> 👋 Ola! sou o Evandro sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE</h2>
 <h2> Meios de Contato:</h2>
- <ul><li><h4>Telefone: whatsap (11) 9 9797-1741
-<li>Linkedin: <a>https://www.linkedin.com/in/evandrolds/<\a>
-<li>Facebook <a>https://www.facebook.com/evandrolimadasilva.silva<\a>
-<li>Instagram:  <a>https://www.instagram.com/evandro.ds/<\a>  Aqui não interajo muito, logo estará meio vazio kkkkk
-<li>Github: <a>https://www.github.com/Evandrolds</4><\a></ul>
-<h2>👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou treineen
-<h2>🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis
+ <ul>
+  <h4>
+   <li><a> Telefone: whatsap (11) 9 9797-1741</li></a>
+    <li> Linkedin:   https://www.linkedin.com/in/evandrolds/</li>
+   <li>Facebook:    https://www.facebook.com/evandrolimadasilva.silva</li>
+   <li>Instagram:   https://www.instagram.com/evandro.ds/</li>
+   <li>Github:      https://www.github.com/Evandrolds</li>
+  </4>
+ </ul>
+<h3> 👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou treineen</h3>
+<h3> 🦖 Me dispoto a aprender qualquer tecnologia ou linguagem se necessario 
+<h3> 👀 Tenho um pouco de conhecimento no Front-end se intereçar</3>
+<h4> 🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis</h4>
 
 
   <h2>Hard-skills</h2>
