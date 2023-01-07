@@ -1,8 +1,8 @@
 <h4> 👋 Ola! me chamo Evandro sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE</h4>
 <div>
 <a href="https://github.com/Evandrolds">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrolds&layout=compact&langs_count=10&theme=dracula"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Evandrolds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrolds&layout=compact&langs_count=10&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandrolds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <h2> Meios de Contato:</h2>
  <ul>
