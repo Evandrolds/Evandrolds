@@ -58,7 +58,7 @@
      <div style="max-width: 400px;">
         
           Responsabilidade e Comprometimento
-          Colaboração e Trabalho em aquip
+          Colaboração e Trabalho em aquipe
           Inteligência Emocional
           Comunicação eficaz
           Pensamento crítico
@@ -67,9 +67,7 @@
           Solução de problemas
           Proativo
           Suportar críticas
-          Gestão de tempo
           Resolução de Conflitos
-          Capacidade de trabalhar sob pressão
           Habilidades de nogociação
           Flexibilidade e adaptabilidade
           Facilidade para expressar ideias
@@ -81,7 +79,7 @@
           
 🚀Há dois anos passei a estudar mais a fundo os frameworks -> jpa/hibernate,lombok, spring-boot e suas particularidades 
 E para completar meu Hard-sKills venho apredendo o framework Angular junto com javascript,HTML5 e CSS3
-Estou participando frequentimente de bootcamps pela Digitalinnovationone (DIO) praticando do java back-end  ao fronte-end com os principais frameworks como                spring-boot, jpa/hibernate, lombok, React, Angula e Bootstrap. 
+Estou participando frequentimente de bootcamps pela Digitalinnovationone (DIO) praticando do java back-end  ao fronte-end com os principais frameworks como         spring-boot, jpa/hibernate, lombok, React, Angula e Bootstrap. 
           
-Atualmete trabalho na área da construção civil isso já se faz uns 17 anos por falta de oportunidade no mercado, fiz tecnologia não por necessidade mas por gostar muito, poderia ter feito há muito tempo mas a renda não deixava,mas consegui, me formei e estou no meio da tecnologia, hoje estou em busca de uma oportunidade na área mas está dificil até para conseguir uma entrevista, mas não vou desistir, quero e vou conseguir mudar de área, vou conatinuar trabalho na construção civil até conseguir entrar na área, vou mostrar para muitos que não acreditaram em mim que sou tanto ou mais paz que outros por aí, peço uma chance, ao menos uma entrevista ou teste que seja, para eu provar o quanto sou capaz, abriago por ler até aqui! 
+
 
