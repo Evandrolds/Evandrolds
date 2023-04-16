@@ -14,7 +14,7 @@
    <li>Github:      https://www.github.com/Evandrolds</li>
   </4>
  </ul>
-<h3> 👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou treineen</h3>
+<h3> 👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou treinee</h3>
 <h3> 🦖 Me disponho a aprender qualquer tecnologia ou linguagem de programação se necessario 
 <h3> 👀 Tenho um pouco de conhecimento no Front-end se interessar</3>
 <h4> 🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis em curso EAD</h4>
