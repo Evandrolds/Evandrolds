@@ -14,14 +14,14 @@
    <li>Github:      https://www.github.com/Evandrolds</li>
   </4>
  </ul>
-<h3> 👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou treinee</h3>
-<h3> 🦖 Me disponho a aprender qualquer tecnologia ou linguagem de programação se necessario 
+<h3> 👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou trainee</h3>
+<h3> 🦖 Me disponho a aprender qualquer tecnologia ou linguagem de programação se necessario para a empresa
 <h3> 👀 Tenho um pouco de conhecimento no Front-end se interessar</3>
-<h4> 🌱 Estudo java back-end há 3 anos, nesse tempo consegui consquistar algumas Hard-skllis em curso EAD</h4>
+<h4> 🌱 Estudo java back-end há 3.5 anos, nesse tempo consegui consquistar algumas Hard-skllis em cursos presenciais e a distância</h4>
 
 
-  <h2>Hard-skills</h2>
-     <div style="max-width: 400px;">
+  <h2>Hard-Skills</h2>
+     <div style="max-width: 700px;">
      
      Curso de java do basico ao avançado pela MJV-Scholl  65/h
      Curso de java 160/h pela Impacta trenamentos
@@ -55,7 +55,7 @@
      
      
    <h2>Soft-skills </h2>      
-     <div style="max-width: 400px;">
+     <div style="max-width: 700px;">
         
           Responsabilidade e Comprometimento
           Colaboração e Trabalho em aquipe
@@ -68,7 +68,7 @@
           Proativo
           Suportar críticas
           Resolução de Conflitos
-          Habilidades de nogociação
+          Habilidades de negociação
           Flexibilidade e adaptabilidade
           Facilidade para expressar ideias
         
@@ -77,9 +77,9 @@
   <h2>Sobre mim</h2>
          <div style="max-width: 400px;">
           
-🚀Há dois anos passei a estudar mais a fundo os frameworks -> jpa/hibernate,lombok, spring-boot e suas particularidades 
+🚀Há dois anos passei a estudar mais a fundo os frameworks -> jpa/hibernate, lombok, spring-boot e suas particularidades 
 E para completar meu Hard-sKills venho apredendo o framework Angular junto com javascript,HTML5 e CSS3
-Estou participando frequentimente de bootcamps pela Digitalinnovationone (DIO) praticando do java back-end  ao fronte-end com os principais frameworks como         spring-boot, jpa/hibernate, lombok, React, Angula e Bootstrap. 
+Estou participando frequentimente de bootcamps pela Digital Innovation One (DIO) praticando do java back-end  ao fronte-end com os principais frameworks da atualidade, tais como spring-boot, hibernate, lombok, Angula e Bootstrap. 
           
 
 
