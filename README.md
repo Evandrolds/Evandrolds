@@ -14,10 +14,15 @@
    <li>Github:      https://www.github.com/Evandrolds</li>
   </4>
  </ul>
-<h3> 👀 Estou em busca de uma oportunidade na área de desenvolvedor java banck-end junior ou trainee</h3>
-<h3> 🦖 Me disponho a aprender qualquer tecnologia ou linguagem de programação se necessario para a empresa
-<h3> 👀 Tenho um pouco de conhecimento no Front-end se interessar</3>
-<h4> 🌱 Estudo java back-end há 3.5 anos, nesse tempo consegui consquistar algumas Hard-skllis em cursos presenciais e a distância</h4>
+   
+#### Profissional focado em Desenvolvimento Backend na linguagem Java, com conhecimento também em Frontend.
+#### Iniciei meus estudos em 2018 e desde então obteve certificações em lógica de programação, aprimorei minhas habilidades em Java e SQL, e explorei o frontend utilizando ferramentas como Angular, JavaScript,TypeScript HTML e CSS.
+#### Minha dedicação me levou a concluir a minha Graduação em Análise e Desenvolvimento de Sistemas em 2021, o que reforçou minha base teórica.
+#### Desde 2019 venho participando frequentemente de bootcamps promovidos pela Digital Innovation One (DIO) em parceria com as maiores empresas de tecnologia nacionais e internacionais, com isso venho praticando desenvolvimento backend e frontend, utilizando os principais frameworks da atualidade, tais como Spring-boot, Hibernate/JPA, Lomboke, Bootstrap e Angular.
+#### Com o empenho e conhecimento adquirido, estou preparado para contribuir com soluções inovadoras em seus projetos ou empresa.
+#### Me disponho a aprender qualquer tecnologia ou linguagem de programação se necessario para a empresa
+#### Tenho um pouco de conhecimento no Front-end se interessar</3>
+#### Estudo java desde 2018 e durante esse tempo consegui consquistar algumas Hard-skllis em cursos presenciais e a distância
 
 
   <h2>Hard-Skills</h2>
@@ -28,10 +33,10 @@
      Java back-end do básico ao avançado 65/h com projeto pela Udemy com Prof. Anelio Alves 
      Java Collections 60/h pela Digital Innovationone
      
-      Bootcamp Santander 120/h Java FullStack pela (DIO)
-      Bootcamp TQI 120/h Java FullStack pela(DIO)
-      Bootcamp Carrefour 90/h Java FullStack 
-      Bootcamp Capgmani 90/h java back-end 
+     Bootcamp Santander 120/h Java FullStack pela (DIO)
+     Bootcamp TQI 120/h Java FullStack pela(DIO)
+     Bootcamp Carrefour 90/h Java FullStack 
+     Bootcamp Capgmani 90/h java back-end 
      
 
      Java back-end do básico ao avançado 65/h com projeto pela Udemy com Prof. Anelio Alves 
@@ -77,9 +82,10 @@
   <h2>Sobre mim</h2>
          <div style="max-width: 400px;">
           
-🚀Há dois anos passei a estudar mais a fundo os frameworks -> jpa/hibernate, lombok, spring-boot e suas particularidades 
-E para completar meu Hard-sKills venho apredendo o framework Angular junto com javascript,HTML5 e CSS3
-Estou participando frequentimente de bootcamps pela Digital Innovation One (DIO) praticando do java back-end  ao fronte-end com os principais frameworks da atualidade, tais como spring-boot, hibernate, lombok, Angula e Bootstrap. 
+🚀Desde os 13 anos de idade trabalhei na construção civil, de inicio foi apenas com meu pai, mas quando atingi à adolescêcia por volta dos 15 ou 16 anos passei a trabalhar com meus tios e colegas, naquela época eu não dava valor a estudo e sim ao trabalho, quando tinha trabalho quase não comparecia a escola, quando eu não tinha trabalho na construção e aparecia vagas na área de logistica eu até que tentava mas não conseguia por falta de conhecimentos teórico e pratico, e por isso dei o primeiro passo, resolvi retornar a escola e em 2008 terminei meu ensino medio, mesmo assim continuei na construção civil porque não conseguia passar nas vagas que surgia nas áreas de losgistica, dessa vez por falta de experiência, em 2012 deu o segundo passo, resolvi entrar na facudade, fui fazer Arquitetura achando que era aquilo que eu precisava ja que a construção civil me abria as porta, mas passando-se 2 anos eu vi que não era aquilo que eu queria, tive que trancar,dei mais um tempo e fui estudar inglês, concluí 2 modulos, depois acabou o dinheiro, dei mais um tempo e em 2018 dei um dos passos mais longo da minha vida,mergulei de cabeça não programação, de inicio fiz lágica de programação no SENAI a distancia, cocluí e em seguida conhecia a linguagem Java, como precisava saber os fundamento da linguagem fiz um curso na Impacta Treinamentos de java, concluí e no mesmo mês da conclução do curso iniciei minha formação em Analise e Desenvolvimento de Sistema e desde então não pareimais.
+Há dois anos passei a estudar mais a fundo os frameworks -> spring-boot, hibernate, lombok, Angula e Bootstrap e suas particularidades 
+E para completar meu Hard-sKills venho apredendo para front-end com Angular junto com TypeScript,HTML5 e CSS3
+Estou participando frequentimente de bootcamps pela Digital Innovation One (DIO) por ser gratuito e por ter bons conteúdos, venho praticando do java back-end  ao fronte-end com os principais frameworks da atualidade</div>
           
 
 
