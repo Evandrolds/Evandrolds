@@ -21,7 +21,7 @@
 #### Desde 2019 venho participando frequentemente de bootcamps promovidos pela Digital Innovation One (DIO) em parceria com as maiores empresas de tecnologia nacionais e internacionais, com isso venho praticando desenvolvimento backend e frontend, utilizando os principais frameworks da atualidade, tais como Spring-boot, Hibernate/JPA, Lomboke, Bootstrap e Angular.
 #### Com o empenho e conhecimento adquirido, estou preparado para contribuir com soluções inovadoras em seus projetos ou empresa.
 #### Me disponho a aprender qualquer tecnologia ou linguagem de programação se necessario para a empresa
-#### Tenho um pouco de conhecimento no Front-end se interessar</3>
+#### Tenho um pouco de conhecimento no Front-end se interessar
 #### Estudo java desde 2018 e durante esse tempo consegui consquistar algumas Hard-skllis em cursos presenciais e a distância
 
 
