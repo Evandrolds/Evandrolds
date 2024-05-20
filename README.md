@@ -1,115 +1,89 @@
-<h4> 👋 Ola! me chamo Evandro sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE</h4>
-<div>
-<a href="https://github.com/Evandrolds">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrolds&layout=compact&langs_count=10&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandrolds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<h4> 👋 Olá! Me chamo Evandro e sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE</h4>
+
+<div align="center">
+  <a href="https://github.com/Evandrolds">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrolds&layout=compact&langs_count=10&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandrolds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
-<h2> Meios de Contato:</h2>
- <ul>
-  <h4>
-   <li><a> Telefone: whatsap (11) 9 9797-1741</li></a>
-    <li> Linkedin:   https://www.linkedin.com/in/evandrolds/</li>
-   <li>Facebook:    https://www.facebook.com/evandrolimadasilva.silva</li>
-   <li>Instagram:   https://www.instagram.com/evandro.ds/</li>
-   <li>Github:      https://www.github.com/Evandrolds</li>
-  </4>
- </ul>
 
-Sobre mim:
+## 📬 Meios de Contato:
 
-Sou um profissional dedicado ao Desenvolvimento Backend na linguagem Java, com competências sólidas também em Frontend. Iniciei minha jornada em 2018 e, desde então, obtive certificações em lógica de programação, aprimorei minhas habilidades em Java e SQL, e explorei o Frontend utilizando ferramentas como Angular, TypeScript, JavaScript, HTML e CSS. Meu comprometimento me impulsionou a concluir minha Graduação em Análise e Desenvolvimento de Sistemas, o que solidificou minha base teórica. Além disso, participo regularmente de bootcamps promovidos pela Digital Innovation One (DIO), onde pratico o desenvolvimento tanto Backend quanto Frontend, utilizando os principais frameworks da atualidade. Com o conhecimento e a experiência adquiridos, estou preparado para contribuir com soluções inovadoras e enfrentar desafios complexos na área de desenvolvimento de software.
-Experiência:
+<ul>
+  <li><a href="https://wa.me/5511997971741"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a></li>
+  <li><a href="https://www.linkedin.com/in/evandrolds/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
+  <li><a href="https://www.facebook.com/evandrolimadasilva.silva"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a></li>
+  <li><a href="https://www.instagram.com/evandro.ds/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></li>
+  <li><a href="https://www.github.com/Evandrolds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></li>
+</ul>
 
-Participei como Desenvolvedor Java Jr no projeto Izapay, onde minhas responsabilidades incluíam:
+## Sobre mim:
 
-    Análise de requisitos e documentação das funcionalidades.
-    Criação das entidades e revisão do modelo de dados utilizando as seguintes tecnologias:
-        Java
-        Spring Boot
-        Spring Data JPA
-        Spring Security
-        JWT
-        API-Rest
-        Lombok
-        Maven
-        PostgreSQL
-        HSQLDB
+Sou um desenvolvedor backend especializado em Java, com fortes habilidades também no frontend. Desde que comecei minha jornada em 2018, conquistei certificações em lógica de programação, Java, SQL, e frontend (Angular, TypeScript, JavaScript, HTML, CSS). Graduado em Análise e Desenvolvimento de Sistemas, minha base teórica é sólida. Participante regular de bootcamps da Digital Innovation One (DIO), onde aprimoro tanto o desenvolvimento backend quanto frontend, utilizando os principais frameworks modernos. Estou preparado para oferecer soluções inovadoras e enfrentar desafios complexos no desenvolvimento de software.
 
-Além disso, contribuí para a documentação do projeto utilizando Swagger e Postman. O desenvolvimento foi conduzido utilizando metodologia ágil, com diretrizes e sprints quinzenais no ClickUp. 12/07/2023 - 17/02/2024.
-Soft-skills:
+## 🛠️ Experiência:
 
-    Responsabilidade e Comprometimento
-    Colaboração e Trabalho em equipe
-    Inteligência Emocional
-    Comunicação eficaz
-    Pensamento crítico
-    Comunicação Interpessoal
-    Autoconfiança
-    Solução de problemas
-    Proativo
-    Suportar críticas
-    Resolução de Conflitos
-    Habilidades de negociação
-    Flexibilidade e adaptabilidade
-    Facilidade para expressar ideias
+### Desenvolvedor Java Jr no Projeto Izapay
+- **Período:** 12/07/2023 - 17/02/2024
+- **Responsabilidades:**
+  - Análise de requisitos e documentação das funcionalidades.
+  - Criação de entidades e revisão do modelo de dados usando:
+    - Java, Spring Boot, Spring Data JPA, Spring Security, JWT, API-Rest, Lombok, Maven, PostgreSQL, HSQLDB.
+  - Documentação com Swagger e Postman.
+  - Desenvolvimento ágil com sprints quinzenais no ClickUp.
 
-Hard-Skills:
-Cursos:
+## 🌟 Soft-skills:
 
-    Conhecendo Spring Data JPA na prática com Java | Dio | 04/2023
-        Conteúdo estudado: Desenvolvimento de uma aplicação para gerenciar cadastros de pessoas em uma empresa, com funcionalidades para inserir, pesquisar, listar, atualizar e deletar usuários do banco de dados.
+- Responsabilidade e Comprometimento
+- Colaboração e Trabalho em equipe
+- Inteligência Emocional
+- Comunicação eficaz
+- Pensamento crítico
+- Comunicação Interpessoal
+- Autoconfiança
+- Solução de problemas
+- Proatividade
+- Suportar críticas
+- Resolução de Conflitos
+- Habilidades de negociação
+- Flexibilidade e adaptabilidade
+- Facilidade para expressar ideias
 
-    Criando uma API REST Documentada com Spring Web e Swagger | Dio | 01/2023
-        Conteúdo estudado: Spring Web, Spring Data JPA, Maven, banco de dados MySQL, Java, métodos HTTP, classes, interfaces, anotações, Swagger e OpenAPI.
+## 💻 Hard-skills & Cursos:
 
-    Versionamento de Código com Git e GitHub | Dio | 06/2023
+### Java e Spring
+- **Conhecendo Spring Data JPA na Prática com Java | Dio | 04/2023**
+  - Desenvolvimento de uma aplicação para gerenciar cadastros de pessoas.
 
-    Introdução a APIs e métodos HTTP | Dio | 05/2023
-        Conteúdo estudado: Introdução aos principais métodos HTTP: GET, POST, PUT, PATCH e DELETE.
+- **Criando uma API REST Documentada com Spring Web e Swagger | Dio | 01/2023**
+  - Utilização de Spring Web, Spring Data JPA, Maven, MySQL, Java, Swagger e OpenAPI.
 
-    Fundamentos da Programação Orientada a Objetos com Java | Dio | 08/2023
-        Conteúdo estudado: Classes e Objetos, Encapsulamento, Herança, Polimorfismo, Abstração e Interfaces.
+### Versionamento e APIs
+- **Versionamento de Código com Git e GitHub | Dio | 06/2023**
+- **Introdução a APIs e métodos HTTP | Dio | 05/2023**
+  - Métodos HTTP: GET, POST, PUT, PATCH e DELETE.
 
-    Praticando Orientação a Objetos com Java | Dio | 09/2023
-        Conteúdo estudado: Fundamentos da programação orientada a objetos, Estrutura e design de classe, Herança e polimorfismo, Interfaces e classes abstratas, Tratamento de exceções, Coleções e estrutura de dados, Boas práticas de programação.
+### Programação Orientada a Objetos (POO)
+- **Fundamentos da Programação Orientada a Objetos com Java | Dio | 08/2023**
+  - Classes, Encapsulamento, Herança, Polimorfismo, Abstração e Interfaces.
 
-    Tratamento de Exceções em Java | Dio | 01/2022
-        Conteúdo estudado: Entendimento do bloco try-catch e finally, Lançamento de exceções, Tipos de exceções, Hierarquia de exceções, Customização de exceções.
+- **Praticando Orientação a Objetos com Java | Dio | 09/2023**
+  - Design de classe, Herança, Polimorfismo, Exceções, Coleções, Boas práticas.
 
-    Java Backend do Básico ao Avançado | Udemy | 03/2022
-        Conteúdo estudado: Conceitos da programação, Introdução à linguagem Java, Estruturas sequenciais, condicionais e repetitivas, Introdução à POO, Construtores, palavra-chave 'this', sobrecarga e encapsulamento, Comportamento de memória, arrays e listas, Data-hora e calendário, Versionamento com Git e GitHub, Enumeração e composição, Herança e polimorfismo, Tratamento de exceções, Projeto de jogo de xadrez, Trabalhando com arquivos CSV e TXT, Interfaces, generics, Set e Map, Programação funcional, expressões lambda, Interface gráfica com JavaFX, Acesso a banco de dados com JDBC e JPA/Hibernate, Projeto de web services com Spring e JPA/Hibernate, Projeto de API RESTful com Spring e MongoDB.
+### Tratamento de Exceções e Java Avançado
+- **Tratamento de Exceções em Java | Dio | 01/2022**
+  - Bloco try-catch, Lançamento de exceções, Tipos e Hierarquia de exceções.
 
-    Imersão no Spring Framework com Spring Boot | Dio | 04/2022
-        Conteúdo estudado: Desenvolvimento de uma API de gerenciamento de livros com Spring Boot 3, Utilização do Maven, Bancos de dados H2 e PostgreSQL, Funcionalidades para cadastrar, ler, listar, pesquisar e deletar livros.
+- **Java Backend do Básico ao Avançado | Udemy | 03/2022**
+  - Conceitos avançados de Java, POO, Spring, API RESTful, MongoDB.
 
-    Simplificando Projetos Java com o Spring Boot | Dio | 01/2022
-        Conteúdo estudado: Conceitos do Spring Framework, Aplicação do Spring Boot em projetos Java.
+### Ferramentas e Tecnologias:
+- Java, Spring Boot, Spring Framework, Maven, Spring Data, JPA, Hibernate
+- Bootstrap, Angular, JavaScript, TypeScript, HTML5, CSS3
+- Git, GitHub, SQL
 
-    Introdução ao Framework Spring Boot | Dio | 06/2021
-        Conteúdo estudado: Conceitos e exemplos de implementação do Spring Boot em projetos Java, destacando a simplificação e rapidez no desenvolvimento.
+## 🚀 Projetos Destacados:
+Segue todos nesse repositório.
 
-    Lógica de Programação Essencial | Dio | 12/2020
-        Conteúdo estudado: Algoritmos, Operadores, Estruturas de Controle, Arrays e Listas, Funções ou Sub-rotinas, Entrada e Saída de Dados, Debugging e Teste de Código.
+**Sempre buscando aprender e crescer na carreira de desenvolvimento de software!**
 
-    Java Programmer | Impacta Treinamentos | 08/2019
-        Conteúdo estudado: Conceitos da programação, Introdução à linguagem Java, Estruturas sequenciais, condicionais e repetitivas, Introdução à POO, Construtores, palavra-chave 'this', sobrecarga e encapsulamento, Comportamento de memória, arrays e listas, Data-hora e calendário, Enumeração e composição, Interfaces, abstração, herança e polimorfismo, Tratamento de exceções.
-
-Ferramentas e Tecnologias:
-
-    Java
-    Spring Boot
-    Spring Framework
-    Maven
-    Spring Data
-    JPA
-    Hibernate
-    Bootstrap
-    Angular
-    JavaScript
-    TypeScript
-    HTML5
-    CSS3
-    POO (Programação Orientada a Objetos)
-    Git
-    GitHub
-    SQL
