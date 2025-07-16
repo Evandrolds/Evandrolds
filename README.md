@@ -19,18 +19,25 @@
 
 ## Sobre mim:
 
-Sou um desenvolvedor backend especializado em Java, com fortes habilidades também no frontend. Desde que comecei minha jornada em 2018, conquistei certificações em lógica de programação, Java, SQL, e frontend (Angular, TypeScript, JavaScript, HTML, CSS). Graduado em Análise e Desenvolvimento de Sistemas, minha base teórica é sólida. Participante regular de bootcamps da Digital Innovation One (DIO), onde aprimoro tanto o desenvolvimento backend quanto frontend, utilizando os principais frameworks modernos. Estou preparado para oferecer soluções inovadoras e enfrentar desafios complexos no desenvolvimento de software.
+Olá, sou Evandro, um profissional dedicado ao desenvolvimento de software com uma sólida experiência em Java e competências também em Frontend. Minha jornada começou em 2018 e desde então tenho buscado constantemente aprimorar minhas habilidades técnicas e teóricas. Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE, mas não parei por aí. Complementei minha formação com certificações em lógica de programação e diversos cursos especializados em tecnologias como Spring Boot, Git e Java.
 
 ## 🛠️ Experiência:
+### Desenvolvedor Full-Stack Java e Angular
+- **Periodo:** 10/05/2024 - 27/06/2025
+- 06/2025:
+- MJV Tecnology & Innovation, estive alocado no cliente Bradesco Seguros, atuando nas demandas da Evolução tecnológica de um projeto legado do cliente  Bradesco   Seguros, a meta é transformar esse projeto que é Java 8, JSP e Javascript em um projeto Java 21, com Spring, Maven e Angular 19, ambos serão micro serviços, e hospedado na cloud AWS, está sendo uma verdadeira fonte de aprendizado e estudos junto a  melhor parte que é práticas. 
+Já estragamos alguma demandas com as funcionalidades dos endpoits para acessar via Angular, agora estamos atuando na demanda de evolução dos card do portal Bradesco seguros. e assim vamos trabalhando com as melhores tecnologia do mercado atual, utilizando o desenvolvimento ágil com método Scrum na ferramenta Jira, Gitlab, SVN, Github, Bitbucket, AI, Copilot junto com as IDEs.  
+
+
 
 ### Desenvolvedor Java Jr no Projeto Izapay
 - **Período:** 12/07/2023 - 17/02/2024
 - **Responsabilidades:**
-  - Análise de requisitos e documentação das funcionalidades.
-  - Criação de entidades e revisão do modelo de dados usando:
-    - Java, Spring Boot, Spring Data JPA, Spring Security, JWT, API-Rest, Lombok, Maven, PostgreSQL, HSQLDB.
-  - Documentação com Swagger e Postman.
-  - Desenvolvimento ágil com sprints quinzenais no ClickUp.
+- Participei como Desenvolvedor Java Jr no projeto Izapay, em 2024, onde tive a oportunidade de me envolver em todas as etapas do desenvolvimento, desde a análise de requisitos até a implementação utilizando tecnologias como Spring Boot, Spring Data JPA e PostgreSQL, Postman,Swagger, OpenAPI. Autenticação de usuários com Spring Security e JWT, desenvolvimento de Api-rest e integração de Api-rest com cloud AWS GCP e Spabase.
+
+### Desenvolvedor java estagio
+- **Periodo:** 01/2023 - 07/2023
+- Em 2023 estagiei por 6 meses na empresa  Dygital-Code como desenvolver Java back-end, minha função era realizar desde o levantamento de requisitos até o desenvolvimento da api-rest, utilizando as ferramenta, Postmam, Swagger e OpenAPI, Spring-boot, JPA, Ckickup como metodologia ágil  kanban.
 
 ## 🌟 Soft-skills:
 
