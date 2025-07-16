@@ -24,7 +24,6 @@ Olá, sou Evandro, um profissional dedicado ao desenvolvimento de software com u
 ## 🛠️ Experiência:
 ### Desenvolvedor Full-Stack Java e Angular
 - **Periodo:** 10/05/2024 - 27/06/2025
-- 06/2025:
 - MJV Tecnology & Innovation, estive alocado no cliente Bradesco Seguros, atuando nas demandas da Evolução tecnológica de um projeto legado do cliente  Bradesco   Seguros, a meta é transformar esse projeto que é Java 8, JSP e Javascript em um projeto Java 21, com Spring, Maven e Angular 19, ambos serão micro serviços, e hospedado na cloud AWS, está sendo uma verdadeira fonte de aprendizado e estudos junto a  melhor parte que é práticas. 
 Já estragamos alguma demandas com as funcionalidades dos endpoits para acessar via Angular, agora estamos atuando na demanda de evolução dos card do portal Bradesco seguros. e assim vamos trabalhando com as melhores tecnologia do mercado atual, utilizando o desenvolvimento ágil com método Scrum na ferramenta Jira, Gitlab, SVN, Github, Bitbucket, AI, Copilot junto com as IDEs.  
 
