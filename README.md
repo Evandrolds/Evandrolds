@@ -34,9 +34,9 @@ Já estragamos alguma demandas com as funcionalidades dos endpoits para acessar 
 - **Responsabilidades:**
 - Participei como Desenvolvedor Java Jr no projeto Izapay, em 2024, onde tive a oportunidade de me envolver em todas as etapas do desenvolvimento, desde a análise de requisitos até a implementação utilizando tecnologias como Spring Boot, Spring Data JPA e PostgreSQL, Postman,Swagger, OpenAPI. Autenticação de usuários com Spring Security e JWT, desenvolvimento de Api-rest e integração de Api-rest com cloud AWS GCP e Spabase.
 
-### Desenvolvedor java estagio
+### Desenvolvedor java back-end trainee
 - **Periodo:** 01/2023 - 07/2023
-- Em 2023 estagiei por 6 meses na empresa  Dygital-Code como desenvolver Java back-end, minha função era realizar desde o levantamento de requisitos até o desenvolvimento da api-rest, utilizando as ferramenta, Postmam, Swagger e OpenAPI, Spring-boot, JPA, Ckickup como metodologia ágil  kanban.
+- Em 2023 trabalhei como trainee por 6 meses na empresa  Dygital-Code como desenvolver Java back-end, minha função era realizar desde o levantamento de requisitos até o desenvolvimento da api-rest, utilizando as ferramenta, Postmam, Swagger e OpenAPI, Spring-boot, JPA, Ckickup como metodologia ágil  kanban.
 
 ## 🌟 Soft-skills:
 
